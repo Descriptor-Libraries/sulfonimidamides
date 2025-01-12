@@ -1,0 +1,15 @@
+[{
+    "number": "117",
+    "description": "DFT-calculated molecules"
+  },
+
+  {
+    "number": "699",
+    "description": "unique conformers"
+  },
+  
+  {
+    "number": "300",
+    "description": "DFT-level descriptors"
+  }
+]
