@@ -2,6 +2,7 @@
     {
         "name": "Sulfonimidamides",
         "title": "Sulfonimidamide Descriptor Library",
-        "prefix": ""
+        "prefix": "",
+        "default_display": "pca"
     }
 ]

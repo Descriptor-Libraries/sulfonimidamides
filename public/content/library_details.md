@@ -18,7 +18,7 @@ From the DFT calculations, global, atomic, and bond-level properties were collec
 Atoms in the sulfonimidamide functional group were consistently numbered as shown below, and the numbers are referenced in the descriptor names.
 
 <div class="centered-container">
-     <img src="/content/sulfonimidamide_atom_numbering.png" alt="Sulfonimidamide Atom Numbering" class="responsive-image">
+     <img src="content/sulfonimidamide_atom_numbering.png" alt="Sulfonimidamide Atom Numbering">
 </div>
 
 The dynamic range of properties across the conformational ensemble of a single sulfonimidamide was summarized by using five condensed measures for each of the properties.
